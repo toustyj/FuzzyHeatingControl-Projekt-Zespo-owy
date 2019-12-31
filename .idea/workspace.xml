@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc4bfad6-2ca5-4b89-8bf5-12f02cf7f38e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PIECJavaFX/26162-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PIECJavaFX/FuzzyLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIECJavaFX/FuzzyLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PIECJavaFX/KopiaZapasowa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PIECJavaFX/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIECJavaFX/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PIECJavaFX/PoprawiamLogikeRozmytom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PIECJavaFX/Regula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/26162-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FuzzyLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FuzzyLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KopiaZapasowa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PoprawiamLogikeRozmytom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Regula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiosna.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wiosna.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UIXvMDHSecilod8Kb3BQ4crpNn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574901844424" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="InputAndOutputSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputAndOutputSets" />
+      <module name="PIECJavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PIECJavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InputAndOutputSets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc4bfad6-2ca5-4b89-8bf5-12f02cf7f38e" name="Default Changelist" comment="" />
+      <created>1572819796746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572819796746</updated>
+      <workItem from="1576058696021" duration="2841000" />
+      <workItem from="1576075737906" duration="1881000" />
+      <workItem from="1576088681568" duration="11411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1576354955188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576354955188" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1576360350993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576360350993" />
+    <state x="756" y="404" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576341404342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="404" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1576341404342" />
+    <state x="76" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576440533106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="61" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1576283498004" />
+    <state x="76" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576440533106" />
+    <state width="435" height="467" key="DebuggerActiveHint" timestamp="1576007199916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="435" height="467" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1576007199916" />
+    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1576078533362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575246865362" />
+    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576078533362" />
+    <state width="1228" height="108" key="GridCell.Tab.0.bottom" timestamp="1576454856708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="13" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1576061581681" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576439078743" />
+    <state width="1228" height="108" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576454856708" />
+    <state width="1228" height="108" key="GridCell.Tab.0.center" timestamp="1576454856708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="13" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1576061581681" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576439078743" />
+    <state width="1228" height="108" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576454856708" />
+    <state width="1228" height="108" key="GridCell.Tab.0.left" timestamp="1576454856708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="13" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1576061581681" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576439078743" />
+    <state width="1228" height="108" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576454856708" />
+    <state width="1228" height="108" key="GridCell.Tab.0.right" timestamp="1576454856708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="13" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1576061581681" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576439078743" />
+    <state width="1228" height="108" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576454856708" />
+    <state width="1145" height="313" key="GridCell.Tab.1.bottom" timestamp="1576372084031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576338564355" />
+    <state width="1145" height="313" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576372084031" />
+    <state width="1145" height="313" key="GridCell.Tab.1.center" timestamp="1576372084031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1576338564355" />
+    <state width="1145" height="313" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576372084031" />
+    <state width="1145" height="313" key="GridCell.Tab.1.left" timestamp="1576372084031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1576338564355" />
+    <state width="1145" height="313" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576372084031" />
+    <state width="1145" height="313" key="GridCell.Tab.1.right" timestamp="1576372084031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1576338564355" />
+    <state width="1145" height="313" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576372084031" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1576425323420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576425323420" />
+    <state x="311" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576367255512" />
+    <state x="498" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576277466191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1576277466191" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1575561228048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1575561228048" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1576349315177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1576165517220" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576349315177" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InputAndOutputSets.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FuzzyLogic.java</url>
+          <line>308</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FuzzyLogic.java</url>
+          <line>344</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FuzzyLogic.java</url>
+          <line>317</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RealTimeChart.java</url>
+          <line>13</line>
+          <properties class="RealTimeChart" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FuzzyLogic.java</url>
+          <line>307</line>
+          <properties class="FuzzyLogic" method="removeRuleFromList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="affiliationToOutside" language="JAVA" />
+        <watch expression="affiliationToInside" language="JAVA" />
+        <watch expression="xIn" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PIECJavaFX$StackedChartSample.ic" NAME="StackedChartSample Coverage Results" MODIFIED="1576414002439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
